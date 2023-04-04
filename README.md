@@ -8,6 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
+  - [Regards](#regards)
 
 ### Screenshot
 
@@ -29,3 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@JuanGelabert](https://www.frontendmentor.io/profile/JuanGelabert)
+
+## Regards
+
+- Wanna thank to [@Bader-Idris](https://www.frontendmentor.io/profile/Bader-Idris) cause he give me a nice feedback to position the container in a prettier way i think, and he has a cute cat on the profile pic.
